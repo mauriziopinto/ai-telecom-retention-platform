@@ -66,7 +66,17 @@
 - [x] Quick test: customer 7590-VHVEG → retain action, contract_lock_in, confidence 0.85, 4 iterations, no safeguards triggered
 - [x] Committed to dev branch
 
-## Phase 6: Test Cases, Demo & Evaluation — PENDING
+## Phase 6: Test Cases, Demo & Evaluation — COMPLETE
+
+- [x] 6 test cases covering: high-risk, loyal/low-risk, low-CLV, fiber-no-security, senior citizen, new customer
+- [x] All 6 test cases passed with 100% alignment to expected behavior
+- [x] Agent correctly selects policy categories matching customer profiles
+- [x] No inappropriate recommendations (no service termination suggestions)
+- [x] Demo function with formatted boxed output
+- [x] 3 demo scenarios executed: high-risk → retain, low-risk → retain, edge case → retain
+- [x] Evaluation summary table with alignment analysis
+- [x] System architecture diagram rendered (6 components with data flow arrows)
+- [x] Committed to dev branch
 
 ## Phase 7: Documentation & Repo Finalization — PENDING
 
