@@ -1,0 +1,119 @@
+Project 7 — Integrative Industry Synthesis
+Applied Industry System Design, Ethical Reasoning, and Professional Defense
+
+What You Will Submit
+An industry-specific AI solution, system, or design artifact (for example: integrated notebook, workflow, prototype, case study, or technical design document)
+A 1,500–2,000 word Reflective Synthesis Paper (PDF)
+Any supporting notebooks, scripts, diagrams, or configuration files required to understand or run the system
+A final mentor presentation and live defense (15 minutes)
+Project Instructions
+Task 1 — Select an Industry and Define the Problem Space
+Choose a real-world industry or sector. Examples include:
+
+Healthcare
+Education
+Finance
+Manufacturing
+Creative industries
+Public policy
+Climate or sustainability
+Clearly define:
+
+The industry context and problem being addressed
+Why the problem is appropriate for AI-based solutions
+The constraints, risks, or ethical considerations relevant to the industry
+This project must go beyond a single technique and focus on applied system design.
+
+Task 2 — Define the Integration Plan
+Identify at least three prior capstone projects whose methods, ideas, or artifacts will be integrated. These may include:
+
+Data and statistical reasoning
+Machine learning models
+Deep learning systems
+Generative AI components
+Agentic AI workflows
+Clearly explain:
+
+Which prior projects are being integrated
+What each contributes to the final system
+How the components interact or build on one another
+This integration plan should guide the rest of the project.
+
+Task 3 — Design the Integrated AI System or Framework
+Design a cohesive system, workflow, or case study that integrates the selected components.
+
+Your design must include:
+
+A clear system overview or architecture description
+Data flow, model flow, or agent orchestration logic
+Assumptions and design tradeoffs
+Boundaries of system capability and responsibility
+An architecture diagram or structured system description must be included.
+
+Task 4 — Implement or Construct the Applied Artifact
+Create a new, integrative artifact that demonstrates the system design. This may include:
+
+An integrated notebook or pipeline
+A prototype workflow combining models, agents, or generative components
+A detailed applied case study with technical artifacts
+A system design document supported by executable components
+The artifact must represent new work and not a simple resubmission of earlier projects.
+
+Task 5 — Evaluate System Behavior and Outcomes
+Evaluate how the integrated system behaves in realistic scenarios.
+
+Your evaluation should address:
+
+Whether the system meets its intended goals
+Strengths and limitations of the integrated approach
+Failure cases, risks, or unexpected behavior
+Tradeoffs between performance, complexity, and responsible use
+Evaluation may be qualitative, quantitative, or mixed, depending on the system.
+
+Task 6 — Write the Reflective Synthesis Paper
+Write a 1,500–2,000 word paper that synthesizes your work across the capstone.
+
+Your paper must include the following sections:
+
+Overview and Industry Context
+Describe the industry problem and why it matters.
+
+Integration Rationale
+Explain why the selected AI methods were combined and how prior projects informed your design.
+
+System Design and Technical Decisions
+Describe the system architecture, workflows, and key technical choices.
+
+Ethical Considerations and Responsible AI
+Analyze ethical risks, bias, transparency, accountability, and safeguards specific to the industry and system.
+
+Evaluation and Reflection
+Discuss what worked, what did not, and what you learned from integrating across domains.
+
+Professional Relevance
+Explain how this work demonstrates readiness for real-world AI roles.
+
+References
+Include all cited sources using a consistent citation style.
+
+Citations are required when referencing technical concepts, ethical frameworks, or best practices. Do not cite your own results or artifacts.
+
+Task 7 — Prepare for Mentor Defense in the Final Project
+Prepare a 15-minute presentation that covers:
+
+Industry problem and motivation
+System design and integration choices
+Ethical considerations and safeguards
+Evaluation results and limitations
+Professional relevance and next steps
+During the mentor meeting, you must defend your design choices, integration strategy, and ethical reasoning.
+
+Task 8 — Final Review and Submission
+Before submission, confirm that:
+
+All required artifacts are included
+The synthesis paper meets length and citation requirements
+The system or case study clearly integrates at least three prior projects
+Ethical reasoning is specific and grounded in your work
+You are prepared to explain and defend your decisions
+This project represents the culmination of the AI Mastery Capstone and must demonstrate system-level understanding, professional judgment, and responsible AI practice.
