@@ -43,7 +43,15 @@
 - [x] Calibration assessment: predicted vs. observed rates track closely across all deciles
 - [x] Committed to dev branch
 
-## Phase 4: Risk-Adjusted CLV (Component 3) — PENDING
+## Phase 4: Risk-Adjusted CLV (Component 3) — COMPLETE
+
+- [x] Simple CLV = MonthlyCharges × tenure (mean $2,279.58)
+- [x] Expected CLV = MonthlyCharges / churn_probability (mean $1,011.28)
+- [x] CLV by segment: Two-year mean=$2,889.99, Month-to-month mean=$197.10
+- [x] Top-10 rank comparison: 0 overlap between simple vs. expected CLV rankings
+- [x] Scatter plot: churn_probability vs. expected CLV, colored by MonthlyCharges tier
+- [x] Key finding: low-risk customers mean CLV=$2,308.43 vs. high-risk $125.94
+- [x] Committed to dev branch
 
 ## Phase 5: Agentic Retention Advisor (Component 4) — PENDING
 
