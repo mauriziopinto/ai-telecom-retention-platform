@@ -78,6 +78,25 @@
 - [x] System architecture diagram rendered (6 components with data flow arrows)
 - [x] Committed to dev branch
 
-## Phase 7: Documentation & Repo Finalization — PENDING
+## Phase 7: Documentation & Repo Finalization — COMPLETE
 
-## Phase 8: Reflective Synthesis Paper — PENDING
+- [x] Summary cell added to notebook
+- [x] README.md created (project description, setup, run instructions, dataset note, bias awareness)
+- [x] requirements.txt generated (122 packages)
+- [x] All em dashes replaced with hyphens throughout notebook
+- [x] Notebook re-executed top-to-bottom without errors
+- [x] All project instruction files included (01-04)
+- [x] Committed to dev branch
+- [x] main branch created from dev
+- [x] Pushed to GitHub: https://github.com/mauriziopinto/ai-telecom-retention-platform
+
+## Phase 8: Reflective Synthesis Paper — COMPLETE
+
+- [x] Paper written as markdown (1,823 words, within 1,500-2,000 target)
+- [x] All 9 required sections present
+- [x] 3 scholarly sources cited (Barocas & Selbst 2016, De Caigny et al. 2018, Yao et al. 2023)
+- [x] 5 in-text citations, all matching references, no orphans
+- [x] Grounded in actual system results (stats, accuracy, CLV overlap, alignment rate)
+- [x] Title page fields complete
+- [x] No em dashes
+- [x] Saved as Reflective_Synthesis_Paper.md (student creates PDF from APA template)
