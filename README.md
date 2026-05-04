@@ -39,7 +39,13 @@ Run all cells top-to-bottom. The agent section makes real API calls to OpenAI (g
 
 ## Dataset
 
-The Telco Customer Churn dataset (7,043 rows, 21 columns) is included in `dataset/`. It contains customer demographics, service subscriptions, contract details, and churn labels. Originally from the IBM Watson Analytics sample datasets.
+The Telco Customer Churn dataset (7,043 rows, 21 columns) is included in `dataset/`. It contains customer demographics, service subscriptions, contract details, and churn labels for a fictional telecommunications company.
+
+**Source:** IBM Cognos Analytics sample data module. Available at:
+- IBM Documentation: https://www.ibm.com/docs/en/cognos-analytics/12.1.x?topic=samples-telco-customer-churn
+- Kaggle mirror: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+**License:** Apache License 2.0. See https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/LICENSE for full terms.
 
 ## System Architecture
 
