@@ -44,28 +44,39 @@ The Telco Customer Churn dataset (7,043 rows, 21 columns) is included in `datase
 ## System Architecture
 
 ```
-         Telco Customer Data
-                 │
-                 ▼
-      Statistical Analysis (P2)
+            Telco Customer Data
+                    │
+                    ▼
+         Statistical Analysis
+      (from Capstone Project 2)
       Chi-squared, Welch's t-test
-                 │
-                 ▼
-       ML Churn Prediction (P3)
-       Logistic Regression + RF
-                 │
-                 ▼
-      Risk-Adjusted CLV Score
-      MonthlyCharges / churn_prob
-                 │
-                 ▼
-    Agentic Retention Advisor (P6)
+                    │
+                    ▼
+          ML Churn Prediction
+      (from Capstone Project 3)
+      Logistic Regression + RF
+                    │
+                    ▼
+       Risk-Adjusted CLV Score
+       MonthlyCharges / churn_prob
+                    │
+                    ▼
+    Agentic Retention Advisor
+      (from Capstone Project 6)
     ReAct loop, 5 tools, 4 safeguards
-                 │
-                 ▼
-         Retention Action
-     retain / escalate / monitor
+                    │
+                    ▼
+           Retention Action
+       retain / escalate / monitor
 ```
+
+### Prior Capstone Projects Integrated
+
+| Project | Contribution | Repository |
+|---------|-------------|------------|
+| Project 2 — Statistical Analysis | Hypothesis testing framework (chi-squared, Welch's t-test) | [statistical-analysis-project](https://github.com/mauriziopinto/statistical-analysis-project) |
+| Project 3 — ML Model Design | Churn prediction pipeline (Logistic Regression, Random Forest) | [ml-churn-project](https://github.com/mauriziopinto/ml-churn-project) |
+| Project 6 — Agentic AI Systems | ReAct agent architecture, tool calling, safeguards | [agentic-moderation-system](https://github.com/mauriziopinto/agentic-moderation-system) |
 
 The agentic advisor uses 5 tools (lookup profile, assess risk, calculate CLV, lookup policy, recommend action) and 4 safeguards (confidence threshold, iteration limit, minimum-service guarantee, high-CLV escalation).
 
