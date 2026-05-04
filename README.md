@@ -44,7 +44,27 @@ The Telco Customer Churn dataset (7,043 rows, 21 columns) is included in `datase
 ## System Architecture
 
 ```
-Telco Dataset -> Statistical Analysis -> ML Churn Prediction -> Risk-Adjusted CLV -> Agentic Retention Advisor -> Output
+         Telco Customer Data
+                 │
+                 ▼
+      Statistical Analysis (P2)
+      Chi-squared, Welch's t-test
+                 │
+                 ▼
+       ML Churn Prediction (P3)
+       Logistic Regression + RF
+                 │
+                 ▼
+      Risk-Adjusted CLV Score
+      MonthlyCharges / churn_prob
+                 │
+                 ▼
+    Agentic Retention Advisor (P6)
+    ReAct loop, 5 tools, 4 safeguards
+                 │
+                 ▼
+         Retention Action
+     retain / escalate / monitor
 ```
 
 The agentic advisor uses 5 tools (lookup profile, assess risk, calculate CLV, lookup policy, recommend action) and 4 safeguards (confidence threshold, iteration limit, minimum-service guarantee, high-CLV escalation).
