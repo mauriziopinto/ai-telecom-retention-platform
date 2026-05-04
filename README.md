@@ -6,10 +6,10 @@ An integrated AI system that combines statistical analysis, machine learning, ri
 
 This is Project 7 (Industry Integrated AI Systems Synthesis) for the AI Master's program at Udacity / Woolf University. It integrates methods from three prior capstone projects into an end-to-end pipeline:
 
-1. **Statistical Analysis** (from P2) - Chi-squared test and Welch's t-test validate that churn patterns are statistically significant
-2. **ML Churn Prediction** (from P3) - Logistic Regression and Random Forest predict individual churn probabilities
+1. **Statistical Analysis** (from Project 2) - Chi-squared test and Welch's t-test validate that churn patterns are statistically significant
+2. **ML Churn Prediction** (from Project 3) - Logistic Regression and Random Forest predict individual churn probabilities
 3. **Risk-Adjusted CLV** (new) - Combines ML probabilities with revenue data to produce risk-aware customer valuations
-4. **Agentic Retention Advisor** (from P6) - ReAct agent with OpenAI function calling recommends personalized retention actions
+4. **Agentic Retention Advisor** (from Project 6) - ReAct agent with OpenAI function calling recommends personalized retention actions
 
 ## Setup
 
