@@ -30,6 +30,7 @@ echo "OPENAI_API_KEY=your-key-here" > .env
 ## Running the Notebook
 
 ```bash
+# Activate the environment (if not already active)
 source .venv/bin/activate
 jupyter notebook retention_system.ipynb
 ```
