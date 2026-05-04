@@ -15,8 +15,8 @@ This is Project 7 (Industry Integrated AI Systems Synthesis) for the AI Master's
 
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd 08_Industry_Integrated_AI_Systems_Synthesis
+git clone https://github.com/mauriziopinto/ai-telecom-retention-platform.git
+cd ai-telecom-retention-platform
 
 # Create virtual environment and install dependencies
 uv venv
