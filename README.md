@@ -1,6 +1,6 @@
 # AI-Powered Telecom Customer Retention Platform
 
-An integrated AI system that combines statistical analysis, machine learning, risk-adjusted CLV, and an agentic retention advisor to predict and prevent telecom customer churn.
+An integrated AI system that combines statistical analysis, machine learning, risk-adjusted Customer Lifetime Value (CLV), and an agentic retention advisor to predict and prevent telecom customer churn. CLV estimates the total revenue a business can expect from a customer over the duration of their relationship. In this system, CLV is adjusted by the predicted churn probability so that high-risk customers are valued differently than stable ones, changing how the business prioritizes retention efforts.
 
 ## Project Overview
 
